@@ -25,4 +25,4 @@ Además incluimos archivos con datos geográficos para que con feature engineeri
 
 3. Un CSV llamado *precios_casas.csv* con la predicción del precio para los datos en *barranquilla_casas_test_X.pkl*
 
-**La entrega de tu solución la debes hacer como un pull request a este repositorio.**
+**Debes enviar un .zip al correo ds@finco.co**
