@@ -16,7 +16,7 @@ Además incluimos archivos con datos geográficos para que con feature engineeri
 1. Un notebook con las siguientes secciones:
    - Un análisis breve de los datos (EDA).
    - Feature Engineering geográfico.
-   - Entrenamiento del modelo de precios.
+   - Entrenamiento del modelo de precios en venta.
    - Análisis de error.
 
 
