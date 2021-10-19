@@ -1,6 +1,6 @@
 # Finco - Prueba Data Scientist
 
-¡En Finco queremos conocer tus habilidades como Científico de Datos!
+¡En Finco queremos conocer tus habilidades como Científico de Datos! 
 
 ## 1. El reto
 
@@ -11,7 +11,7 @@ Ambos datasets los hemos dividido en *train* y *test*. Queremos que uses los dat
 Además incluimos archivos con datos geográficos para que con feature engineering construyas *features* que ayuden al modelo.
 
 
-## 2. Entregable
+## 2. Entregable (en Python)
 
 1. Un notebook con las siguientes secciones:
    - Un análisis breve de los datos (EDA).
